@@ -1,3 +1,3 @@
 # FirstCap
 this is my first repo
-author- uday pratap kourav
+author- uday pratap kourav software
